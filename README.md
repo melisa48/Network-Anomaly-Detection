@@ -8,11 +8,11 @@ Preprocesses Data: Processes the collected packet data.
 - Visualizes Results: Displays a histogram of packet sizes and highlights anomalies.
 ## Prerequisites
 Ensure you have Python installed along with the following libraries:
--numpy
--pandas
--scikit-learn
--matplotlip
--scapy
+- numpy
+- pandas
+- scikit-learn
+- matplotlip
+- scapy
 `pip install numpy pandas scikit-learn matplotlib scapy`
 
 ## Script Details

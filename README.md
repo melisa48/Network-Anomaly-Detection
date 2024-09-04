@@ -13,7 +13,7 @@ Ensure you have Python installed along with the following libraries:
 - scikit-learn
 - matplotlip
 - scapy
-`- pip install numpy pandas scikit-learn matplotlib scapy`
+- `pip install numpy pandas scikit-learn matplotlib scapy`
 
 ## Script Details
 network_anomaly_detector.py
